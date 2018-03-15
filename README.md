@@ -1,1 +1,1 @@
-# sampl2
+this is example of github
